@@ -36,6 +36,8 @@ git status
 
 git push -u origin main
 
+r
+
 -----------------------------------------------------------------------
 git init
 git add README.md
