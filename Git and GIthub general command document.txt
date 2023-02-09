@@ -46,7 +46,7 @@ git remote add origin https://github.com/Akashchandel27/Python-.git
 git push -u origin main
 -----------------------------------------------------------------------
 
-For creating the new branch without the main branch in the github (other then)
+Steps :- For creating the new branch without the main branch in the github (other then)
 
 git branch
 git branch demo2 ------------"demo2 is the file name"
