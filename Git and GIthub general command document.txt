@@ -16,22 +16,19 @@ git config user.name                                          # to know the user
 git config user.email                                         # to know the user email
 
 git status                                                    # best practice to check the status in between
-git commit -m "first commit"
+git commit -m "first commit"                                  # in the " " we are having comment on it 
 
-git status ------
-
-git remote add origin https
-
+git status 
+git remote add origin  https "URL"                            # to add in the particular origin
 git status
 
-git push -u origin master
-
-git status
-
-git push -u origin main
-
+git push -u origin master                                     # to add in the master branch    
+git status                                                    
+git push -u origin main                                       # to add in the main branch                                    
 
 -----------------------------------------------------------------------
+
+
 git init
 git add README.md
 git commit -m "first commit"
