@@ -51,3 +51,14 @@ git commit -m 'new commit'-----
 git push origin demo2 ---------- add files in the demo2
 
 --------------------------------------------------------------------------
+
+How to take (Pull) code from the github?
+--------------------------------------------------------------------------
+mkdir git_demo -----> it will create the new folder with that name
+cd git_demo ------->  to get into the git_demo folder
+pwd----------------> to enter in that folder
+mkdir changes -----> create other folder in that
+cd changes ---------> to get into other folder
+git init---------
+git pull url of github repo
+
