@@ -1,23 +1,22 @@
 Github and Git Commands
 ------------------------------------------------------------
 
--> Open the github account.
--> Remember the user name and password
--> Add any new repo in the Github with any user name.
-
+# Open the github account.
+# Remember the user name and password
+# Add any new repo in the Github with any user name.
 ------------------------------------------------------------
-git status ---- 
-git init ----->git comes on the folder
-git status -----> to know the status of the files
-git add --a  git add -A ----> to add the files
+git status                              # to know the status of the file
+git init                                # git files comes under the folder
+git status                              # to know the status of the files
+git add --a  git add -A                 # to add the files 
 
-git config -- global user.name "akashchandel27"
-git config -- global user.email "akashchandel27@gmail.com"
-git config user.name
-git config user.email
+git config -- global user.name "akashchandel27"               # to enter user name
+git config -- global user.email "akashchandel27@gmail.com"    # to enter user email 
+git config user.name                                          # to know the user name
+git config user.email                                         # to know the user email
 
-git status -----> to check in between 
-git commit -m "first commit" ----?
+git status                                                    # best practice to check the status in between
+git commit -m "first commit"
 
 git status ------
 
